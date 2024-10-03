@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, machine learning, and building innovative tech solutions.  
 - 🌱 I’m currently learning advanced JavaScript, React, and working on personal finance tracking tools.  
 - 💞️ I’m looking to collaborate on open-source projects related to front-end development or data-driven applications.  
-- 📫 How to reach me: omthote24@example.com 
+- 📫 How to reach me: omthote24@gmail.com 
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I’ve experimented with creating simple AI models using TensorFlow, and I find it amazing how neural networks can learn to play video games just by observing!
 - 💻 I enjoy experimenting with different programming languages and frameworks to improve my coding skills.   
